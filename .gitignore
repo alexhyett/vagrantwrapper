@@ -2,3 +2,4 @@ vagrant/*
 .vagrant
 .ey_local_data
 .DS_Store
+theme/*
